@@ -1,6 +1,6 @@
 👋 Hi, I’m Sócrates Manaure ( @smanaure93 )
 
-I am a systems engineer from Venezuela specialized in web development. Work with the frameworks:
+I am a systems engineer from Venezuela specialized in web development. I have worked with the frameworks:
 
 - Laravel
 - Nodejs
