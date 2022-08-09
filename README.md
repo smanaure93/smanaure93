@@ -6,6 +6,7 @@ I am a systems engineer from Venezuela specialized in web development. I have wo
 - Nodejs
 - React
 - Angular
+- VueJS
 
 I also have experience with HTML, CSS, Javascript, and the Adobe Design Pack.
 
