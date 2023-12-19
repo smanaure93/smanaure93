@@ -2,9 +2,9 @@
 
 I am a systems engineer from Venezuela specialized in web development. I have worked with the frameworks:
 
-- Laravel
 - Nodejs
 - React
+- Laravel
 - Angular
 - VueJS
 
